@@ -17,8 +17,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享PC、安卓优质软件',
-  HEO_HERO_TITLE_2: '',
+  HEO_HERO_TITLE_1: '分享PC、安卓端',
+  HEO_HERO_TITLE_2: '优质软件及游戏',
   HEO_HERO_TITLE_3: 'huihui0725.com',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
