@@ -17,8 +17,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享PC、安卓端',
-  HEO_HERO_TITLE_2: '优质软件及游戏',
+  HEO_HERO_TITLE_1: '分享各种游戏模组',
+  HEO_HERO_TITLE_2: '软件、影视资源',
   HEO_HERO_TITLE_3: 'huihui0725.com',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '鸣潮游戏模组更新',
