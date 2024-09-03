@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '优质软件及游戏',
   HEO_HERO_TITLE_3: 'huihui0725.com',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_5: '热门游戏模组资源',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
