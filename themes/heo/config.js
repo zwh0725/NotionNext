@@ -20,9 +20,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享PC、安卓端',
   HEO_HERO_TITLE_2: '优质软件及游戏',
   HEO_HERO_TITLE_3: 'huihui0725.com',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '热门游戏模组资源',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '鸣潮游戏模组更新',
+  HEO_HERO_TITLE_LINK: 'https://docs.qq.com/smartsheet/DVkZGSmtnZEFvVWZl?tab=BB08J2',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '模组推荐', url: '/tag/模组推荐' },
